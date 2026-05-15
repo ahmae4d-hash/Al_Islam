@@ -1,0 +1,27 @@
+{
+  "name": "بوابة الإسلام",
+  "short_name": "الإسلام",
+  "description": "مرجعك الشامل للعلوم والعبادات الإسلامية",
+  "start_url": "/Al_Islam/",
+  "scope": "/Al_Islam/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1117",
+  "theme_color": "#c8a94a",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
